@@ -6,5 +6,3 @@ print(f"La fecha de hoy es: {fecha_actual}")
 
 
 print("Bienvenido Corders")
-
-
